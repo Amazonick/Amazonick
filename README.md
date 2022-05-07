@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Amazonick also known as pzs
 - 👀 I’m interested in reading and coding
-- 🌱 I’m currently learning html, CSS and NodeJS 
+- 🌱 I’m currently learning html, CSS and JavaScript 
 - 💞️ I’m looking to collaborate on anything that will help me develp my skills
 - 📫 You can reach me @ pzs@live.com
 
